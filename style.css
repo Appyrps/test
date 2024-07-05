@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+img > mb-4{
+    display:flex;
+    justify-content: center;
+}
